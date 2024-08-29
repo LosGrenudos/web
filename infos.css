@@ -299,7 +299,11 @@ body{
         text-align: center;
     }
     .info-txt h2 {
-        font-size: 50px;
+        font-size: 40px;
+    }
+
+    .info-txt h3 {
+        font-size: 35px;
     }
     .info-txt p {
         font-size: 16px;
